@@ -11,6 +11,7 @@ let shop = {
     discription: 'Input',
     shopcount: 120,
 } //object
+
 let BigInt = 13241323214543213124325n; //bigInt
 
 let symbolEx1 = Symbol('name')
